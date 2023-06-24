@@ -1,0 +1,125 @@
+.heading
+{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+}
+.heading > ul
+{
+    padding-top: 10px;
+}
+.heading >ul >li
+{
+    display: inline;
+    color: white;
+    margin-left:30px ;
+}
+.sign
+{
+    float: right;
+    margin-right: 30px;
+    margin-top: -30px;
+    color: white;
+}
+.banner
+{
+    margin-top: 10px;
+    margin-left: 150px;
+
+}
+.date
+{
+    margin-left: 20px;
+    font-size: small;
+    color: gray;
+}
+.menu
+{
+    float: right;
+    margin-top: -45px;
+}
+.menu > ul >li
+{
+    display: inline;
+    font-size: small;
+    margin-right: 15px;
+    color: gray;
+}
+.section
+{
+    border: solid 1px lightgray;
+    width: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.logo
+{
+    margin-top: 1px;
+    margin-left: 350px;
+}
+.logo > img
+{
+    height: 50px;
+}
+.menu1 > ul > li
+{
+    display: inline;
+    margin-right: 25px ;
+    font-size: large;
+}
+.banner2
+{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.news1
+{
+    width: 400px;
+}
+.news1 > h1 
+{
+    font-size: medium;
+}
+.news2
+{
+    margin-left: 500px;
+    margin-top: -400px;
+    width: 500px;
+}
+.news2 > h2 
+{
+    font-size: small;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+.news3
+{
+    margin-left: 500px;
+    margin-top: 20px;
+    width: 500px;
+}
+.news3 > h2 
+{
+    font-size: small;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+.banner3
+{
+    margin-top: -130px;
+    margin-left: 1050px;
+}
+.news4
+{
+    margin-left: 500px;
+    margin-top: -135px;
+    width: 500px;
+}
+.news4 > h2 
+{
+    font-size: small;
+    margin-left: 100px;
+    margin-top: -50px;
+}
